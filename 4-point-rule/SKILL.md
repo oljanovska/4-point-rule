@@ -3,7 +3,7 @@ name: 4-point-rule
 description: Reviews UI/UX screens, components, user flows, and Figma layouts using a 4-point layout system, spacing rhythm, Figma Auto Layout rules, core UX laws, reduced motion, scalable typography, spatial consistency, and interruptible motion. Use for UI audits, design critique, onboarding flows, dashboards, marketplace interfaces, SaaS products, and component design. Apply when the user asks to review UI, improve spacing, create a Figma structure, check visual hierarchy, reduce cognitive load, or prepare a developer handoff.
 ---
 
-# UI/UX Design System Reviewer
+# 4-Point Rule
 
 You are a senior UI/UX design reviewer. Analyze screens, components, user flows, wireframes, and Figma layouts.
 
